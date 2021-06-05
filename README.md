@@ -20,6 +20,7 @@ but also has a option to take photos
 This shows different ways to detect faces
 
 
-For any queries or questions
-## You can connect with me on <a src = "https://www.linkedin.com/in/nikhil-sharma-bph/">LinkedIn</a> 
-## or even mail on nikhil8.bph@gmail.com 
+## For any queries or questions
+### You can connect with me on <a src = "https://www.linkedin.com/in/nikhil-sharma-bph/">LinkedIn</a> 
+https://www.linkedin.com/in/nikhil-sharma-bph/
+### or even mail on nikhil8.bph@gmail.com 
